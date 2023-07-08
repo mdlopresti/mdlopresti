@@ -1,4 +1,4 @@
-﻿# mdlopresti
+﻿# Automation Specialist
 
 - Passionate Software Engineer with expertise in Automation
 - Experienced in creating efficient systems and streamlining processes
